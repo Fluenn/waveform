@@ -1,4 +1,4 @@
-module github.com/mdlayher/waveform
+module github.com/Fluenn/waveform
 
 go 1.14
 
